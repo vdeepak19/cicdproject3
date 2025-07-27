@@ -9,6 +9,7 @@ function App() {
   return (
     <>
      <h1>Welcome to 3rd year CICD Class S227 - 22.07.25</h1>
+      <h1>Welcome to 3rd year CICD Class S227 - 27.07.25</h1>
     </>
   )
 }
